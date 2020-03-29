@@ -24,7 +24,4 @@ _Time STOPS when you STOP_
 
 ## See in action
 
-
-[![Gameplay](https://img.youtube.com/vi/hfRDhJtFgD4/0.jpg)](https://youtu.be/hfRDhJtFgD4)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hfRDhJtFgD4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
