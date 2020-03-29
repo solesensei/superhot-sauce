@@ -13,7 +13,7 @@ _Time STOPS when you STOP_
 
 ## Usage
 
-1. [Download mod]
+1. Download mod
     - [mega](https://mega.nz/#!y0UwXSDR!9gMsuXTDPI_Dj0set-7uJkBDUTvqV2F6HcAalU2q8UU)
     - [github](https://github.com/solesensei/superhot-sause/releases/latest)
 2. Unpack it anywhere (disable firewall if needed)
