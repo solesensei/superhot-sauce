@@ -1,5 +1,5 @@
 # SUPERHOT Sauce [mod]
-![](https://img.shields.io/badge/version-v1.1-blue)
+[![](https://img.shields.io/badge/version-v1.1-blue)](https://github.com/solesensei/superhot-sause/releases/latest)
 [![steam guide](https://img.shields.io/badge/steam-guide-red)](https://steamcommunity.com/sharedfiles/filedetails/?id=1441077592)
 
 _Time STOPS when you STOP_
@@ -13,7 +13,9 @@ _Time STOPS when you STOP_
 
 ## Usage
 
-1. [Download mod](https://mega.nz/#!y0UwXSDR!9gMsuXTDPI_Dj0set-7uJkBDUTvqV2F6HcAalU2q8UU)
+1. [Download mod]
+    - [mega](https://mega.nz/#!y0UwXSDR!9gMsuXTDPI_Dj0set-7uJkBDUTvqV2F6HcAalU2q8UU)
+    - [github](https://github.com/solesensei/superhot-sause/releases/latest)
 2. Unpack it anywhere (disable firewall if needed)
 3. Launch a game
 4. Click SUPERHOT
