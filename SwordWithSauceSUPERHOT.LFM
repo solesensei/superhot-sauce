@@ -1,0 +1,87 @@
+object UDF1: TCEForm
+  Left = 419
+  Height = 150
+  Top = 210
+  Width = 300
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsDialog
+  Caption = 'Sword with SUPERHOT Sauce'
+  ClientHeight = 150
+  ClientWidth = 300
+  Color = clSilver
+  OnClose = FormClose
+  object LaunchButton: TCEButton
+    Left = 86
+    Height = 49
+    Top = 20
+    Width = 123
+    Caption = 'SUPER HOT'
+    OnClick = LaunchMod
+    TabOrder = 0
+  end
+  object HeaderText: TCELabel
+    Left = 69
+    Height = 15
+    Top = 3
+    Width = 158
+    Caption = 'Do you wanna make it hotter?'
+    ParentColor = False
+  end
+  object MadeByLabel: TCELabel
+    Left = 193
+    Height = 15
+    Top = 130
+    Width = 102
+    Caption = 'made by solesensei'
+    ParentColor = False
+    ParentFont = False
+  end
+  object SlowTimeBar: TCETrackBar
+    Cursor = crUpArrow
+    Left = 71
+    Height = 25
+    Top = 94
+    Width = 180
+    Max = 100
+    Min = 1
+    OnChange = SetSlowTimeFactor
+    Position = 1
+    ParentShowHint = False
+    ShowHint = True
+    TabOrder = 1
+  end
+  object SlowTimeLabel: TCELabel
+    Left = 12
+    Height = 15
+    Top = 96
+    Width = 52
+    Caption = 'SlowTime'
+    ParentColor = False
+  end
+  object VersionLabel: TCELabel
+    Left = 4
+    Height = 15
+    Top = 132
+    Width = 37
+    Caption = 'ver: 1.1'
+    ParentColor = False
+  end
+  object SettingsLabel: TCELabel
+    Left = 12
+    Height = 15
+    Top = 72
+    Width = 49
+    Caption = 'Settings:'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object SlowTimeValueLabel: TCELabel
+    Left = 259
+    Height = 15
+    Top = 97
+    Width = 22
+    Caption = '20%'
+    ParentColor = False
+  end
+end
