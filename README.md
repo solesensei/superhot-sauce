@@ -1,6 +1,7 @@
 # SUPERHOT Sauce [mod]
 [![](https://img.shields.io/badge/version-v1.1-blue)](https://github.com/solesensei/superhot-sause/releases/latest)
 [![steam guide](https://img.shields.io/badge/steam-guide-red)](https://steamcommunity.com/sharedfiles/filedetails/?id=1441077592)
+<a href="https://www.buymeacoffee.com/solesensei"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
 
 _Time STOPS when you STOP_
 
@@ -22,7 +23,7 @@ _Time STOPS when you STOP_
     
     ![](https://steamuserimages-a.akamaihd.net/ugc/794263056776236948/9A0AC28C3B68209B590E0F56313D48F83EC6861B/)
 
-
+<a href="https://www.buymeacoffee.com/solesensei" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## See in action
 
